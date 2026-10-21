@@ -1,4 +1,4 @@
-# 翻墙2025 - 10月14日22.7M/S|免费Shadowrocket节点/Singbox节点/Clash节点/V2ray节点/SSR节点节点推荐，V2rayC梯子购买推荐  更新时间 2026-10-14 10:53:31
+# 翻墙2025 - 10月21日21.9M/S|免费Shadowrocket节点/V2ray节点/Singbox节点/SSR节点/Clash节点节点推荐，V2rayC梯子购买推荐  更新时间 2026-10-21 10:35:09
 所有免费clash节点都爬取自网络，请勿用于非法用途 。节点地址：<a href="https://fanqiang2025.github.io" target="_blank">点击跳转</a>
 
 ## clash使用教程：
@@ -9,23 +9,23 @@
 
 ### 免费Clash节点订阅链接
 
-- https://fanqiang2025.github.io/uploads/2026/10/0-20261014.yaml
-- https://fanqiang2025.github.io/uploads/2026/10/1-20261014.yaml
-- https://fanqiang2025.github.io/uploads/2026/10/2-20261014.yaml
-- https://fanqiang2025.github.io/uploads/2026/10/3-20261014.yaml
-- https://fanqiang2025.github.io/uploads/2026/10/4-20261014.yaml
+- https://fanqiang2025.github.io/uploads/2026/10/0-20261021.yaml
+- https://fanqiang2025.github.io/uploads/2026/10/1-20261021.yaml
+- https://fanqiang2025.github.io/uploads/2026/10/2-20261021.yaml
+- https://fanqiang2025.github.io/uploads/2026/10/3-20261021.yaml
+- https://fanqiang2025.github.io/uploads/2026/10/4-20261021.yaml
 
 ### 免费V2ray节点订阅链接
 
-- https://fanqiang2025.github.io/uploads/2026/10/0-20261014.txt
-- https://fanqiang2025.github.io/uploads/2026/10/1-20261014.txt
-- https://fanqiang2025.github.io/uploads/2026/10/2-20261014.txt
-- https://fanqiang2025.github.io/uploads/2026/10/3-20261014.txt
-- https://fanqiang2025.github.io/uploads/2026/10/4-20261014.txt
+- https://fanqiang2025.github.io/uploads/2026/10/0-20261021.txt
+- https://fanqiang2025.github.io/uploads/2026/10/1-20261021.txt
+- https://fanqiang2025.github.io/uploads/2026/10/2-20261021.txt
+- https://fanqiang2025.github.io/uploads/2026/10/3-20261021.txt
+- https://fanqiang2025.github.io/uploads/2026/10/4-20261021.txt
 
 ### 免费Sing-box节点订阅链接
 
-- https://fanqiang2025.github.io/uploads/2026/10/20261014.json
+- https://fanqiang2025.github.io/uploads/2026/10/20261021.json
 
 ## 更多Clash节点订阅 ：
 
